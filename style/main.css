@@ -36,9 +36,9 @@ nav a:hover {
 /* Filme Principal  */
 
 .filme-principal {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)100% ), url("/img/capa-house.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100% ), url('../src/img/capa-house.jpg');
 
-  height:400px;
+  height: 400px;
   background-size: cover;
 
   display: flex;
